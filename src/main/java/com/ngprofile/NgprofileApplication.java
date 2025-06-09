@@ -7,6 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class NgprofileApplication {
 
 	public static void main(String[] args) {
+		
+		
+		
+		
 		SpringApplication.run(NgprofileApplication.class, args);
 	}
 
